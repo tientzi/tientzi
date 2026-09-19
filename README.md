@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tien Tai
+# 👋 Hi, I'm Nguyen Tien Tai
 
 🎓 Information Technology Student  
 💼 Aspiring Business Analyst  
@@ -77,11 +77,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-## 🤖 AI & Productivity
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 - Using AI tools to support requirements analysis
 - Documentation and research support
